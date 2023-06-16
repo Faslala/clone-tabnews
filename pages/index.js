@@ -1,5 +1,7 @@
 function Home() {
-    return <h1>Teste... Faslala</h1>
+    return <><h1>
+        <strong>Faslala Assis</strong>
+    </h1><p>Exercicio de mudar a frase para teste no <em>Vercel.</em></p></>
 }
 
 export default Home;
